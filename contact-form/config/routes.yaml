@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+contact:
+  path: /
+  controller: App\Controller\ContactController::new

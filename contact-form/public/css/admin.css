@@ -1,0 +1,27 @@
+.message-not-showing {
+	background: #ba2020 !important;
+	color: #FFF !important;
+}
+
+.message-showing {
+	background: #25ba20 !important;
+	color: #FFF !important;
+}
+
+.carre {
+	max-width: 30%;
+	margin-left: 10px;
+	padding:10px;
+	font-style: italic;
+	font-size: 10px;
+}
+
+.display-flex{
+	display: flex;
+	justify-content: center;
+}
+
+.content-header .page-actions
+{
+	display: none !important;
+}

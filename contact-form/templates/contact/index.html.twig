@@ -1,0 +1,45 @@
+{% extends 'header.html.twig' %}
+{% block title %}Contact{% endblock %}
+{% block body %}
+    <title>Contact</title>
+    <div class="col-sm-12 center-this-page">
+
+    </div>
+    <div class="content">
+
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-10">
+                    {% for message in app.flashes('success') %}
+                        <div class="alert alert-success">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+
+                    <div class="row justify-content-center">
+                        <div class="col-md-6">
+
+                            <h3 class="heading mb-4">Let's talk about everything!</h3>
+                            <p>A technical question? A need? An idea for a project,<br/>
+                                Contact us.</p>
+
+                            <p><img src="images/undraw-contact.svg" alt="Image" class="img-fluid"></p>
+
+
+                        </div>
+                        <div class="col-md-6">
+                            {{ form(customer_form) }}
+                            <div id="form-message-warning mt-4"></div>
+                            <div id="form-message-success">
+                                Your message was sent, thank you!
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+{% endblock %}
