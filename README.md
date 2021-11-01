@@ -33,6 +33,7 @@ Les identifiants par défaut sont :
 **Password** : demodemo
 
 ![**Page de connexion**](https://prnt.sc/1y2s9nm)
+![alt text](http://url/to/img.png)
 
 
 ## Consultation des messages
@@ -63,4 +64,4 @@ Pour voir un message, il suffit de cliquer sur le bouton **"view message"**
 ![Pour supprimer des messages, vous devez les sélectionner puis cliquer sur supprimer. ](https://prnt.sc/1y2u0wn)
 
 
-![Pour ajouter des utilisateurs, cliquez sur "add admin user"](https://prnt.sc/1y2u4us)
+![Pour ajouter des utilisateurs, cliquez sur "add admin user"](http://image.noelshack.com/fichiers/2021/44/1/1635791815-test.png)
