@@ -18,7 +18,7 @@ Le site est ensuite visible à l'adresse suivante : http://localhost:8000
 Le projet est composé essentiellement de 6 pages. 
 
 ## Page de contact
-Page de contact avec des champs simple. Une fois les différentes information renseigné, l'utilisateur reçoit un mail à l‘adresse qu‘il à renseigné.
+Page de contact avec des champs simple. Une fois les différentes informations renseignées, l'utilisateur reçoit un mail à l‘adresse qu‘il a renseignée. 
 ![](http://image.noelshack.com/fichiers/2021/44/1/1635792050-index.png)
 
 ## Back office
