@@ -5,9 +5,8 @@ Projet réalisé sur le framework Symfony 5. L'objectif de ce projet est la mise
 Le projet intervient dans le cadre du recrutement réalisé par l'entreprise **Asceo**
 
 # Installation
-
-- composer install 
 - cd contact-form
+- composer install 
 - php bin/console doctrine:database:create
 - php bin/console doctrine:migrations:migrate
 - `php` `-S` `localhost:8000` `-t` `public`
